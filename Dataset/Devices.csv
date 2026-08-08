@@ -1,0 +1,12 @@
+﻿device_id;user_id;device_type;operating_system
+1;1;Smart TV;WebOS
+2;1;Smartphone;iOS
+3;2;Laptop;Windows
+4;3;Smartphone;Android
+5;4;Tablet;iPadOS
+6;5;Smart TV;Tizen
+7;6;Laptop;macOS
+8;7;Smartphone;iOS
+9;8;Smart TV;Android TV
+10;9;Tablet;Android
+11;10;Smartphone;iOS

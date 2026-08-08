@@ -1,0 +1,11 @@
+﻿user_id;first_name;last_name;email;registration_date;country;subscription_type
+1;Batuhan;Denizli;batuhan@email.com;15.01.2026;Turkey;Premium
+2;Emma;Watson;emma@email.com;10.02.2026;UK;Basic
+3;Michael;Scott;michael@email.com;5.03.2026;USA;Premium
+4;Ali;Veli;ali@email.com;20.04.2026;Turkey;Basic
+5;Sophie;Martin;sophie@email.com;1.05.2026;France;Premium
+6;Ayse;Yilmaz;ayse@email.com;2.05.2026;Turkey;Premium
+7;John;Doe;john@email.com;3.05.2026;USA;Basic
+8;Jane;Smith;jane@email.com;4.05.2026;UK;Premium
+9;Caner;Kaya;caner@email.com;5.05.2026;Turkey;Basic
+10;Elif;Demir;elif@email.com;6.05.2026;Germany;Premium
